@@ -1,0 +1,37 @@
+.nav-pic {
+  height: 30px;
+  margin-top: -5px;
+}
+.hero {
+  height: 300px;
+}
+.blue {
+  background-color: #013a96;
+  color: white;
+}
+.item {
+  height: 150px;
+}
+.me {
+  height: 140px;
+  padding: 5px
+}
+.padding-15px {
+  padding: 15px;
+}
+.center {
+  align-content: center;
+}
+.hero-section {
+    height: 300px;
+}
+.hero-img {
+  
+
+}
+@media (min-width :768px) {
+  .nav {
+    display: none:
+  }
+
+}
